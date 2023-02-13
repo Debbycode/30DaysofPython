@@ -28,7 +28,7 @@ def create_tuple_list(n):
 create_tuple_list(7)
 
 
-print('=========================Four=====================')
+print('=========================Four======================')
 
 def flatten_list(input_list):
     flat_list = [item for sublist in input_list for item in sublist]
