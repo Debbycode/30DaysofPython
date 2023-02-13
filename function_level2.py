@@ -10,7 +10,7 @@ def is_prime(num):
 print(is_prime(5))
 print(is_prime(12))
 
-print('========================Two==============================')
+print('========================Two===============================')
 
 def is_unique(lst):
     
