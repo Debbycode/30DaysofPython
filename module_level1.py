@@ -30,7 +30,7 @@ def user_id_gen_by_user():
 
 print(user_id_gen_by_user())
 
-print('===========================Three=======================')
+print('===========================Three========================')
 
 def rgb_color_gen():
     import random
