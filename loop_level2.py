@@ -21,3 +21,4 @@ for num in range(0,101):
         print(f'The sum of all odds is {even_sum}. And the sum of all evens is {odd_sum}')
 
     
+
