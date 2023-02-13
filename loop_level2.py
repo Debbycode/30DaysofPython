@@ -7,7 +7,7 @@ for number in range(0, 101):
     print(f'The sum of all number is {sum}')
 print()
 
-print('=======================Two=====================')
+print('=======================Two======================')
 
 even_sum = 0
 odd_sum = 0
