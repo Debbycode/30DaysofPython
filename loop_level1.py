@@ -22,7 +22,7 @@ for number in range(10,0,-1):
 else:
     print('Loop Stopped!')
     
-print('--------------------')
+print('------------------------')
 
 number = 10         
 while number > 0:
